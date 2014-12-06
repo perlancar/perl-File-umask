@@ -63,4 +63,4 @@ Perl's umask builtin.
 L<Umask::Local>.
 
 Other modules with the same concept: L<File::chdir>, L<Locale::Tie>,
-L<Unix::setuid>.
+L<Signal::Mask>, L<Signal::Pending>.
