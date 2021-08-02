@@ -2,3 +2,4 @@ File-umask-*
 .build
 *~
 nytprof*
+.DS_Store
